@@ -1,0 +1,4 @@
+Koka nuja
+2.56
+Skaista koka nuja
+4

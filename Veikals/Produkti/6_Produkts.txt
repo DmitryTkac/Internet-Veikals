@@ -1,0 +1,4 @@
+newObject
+20
+20 eur ne par ko
+0

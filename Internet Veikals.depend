@@ -1,0 +1,347 @@
+# depslib dependency file v1.0
+1527654878 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	"headers/Profiles_System/profiles_base.h"
+	"headers/Veikals_System/Veikals.h"
+
+1527654892 c:\saintminer\studio\programming\c++\gala projekts\internet veikals\headers\profiles_system\profiles_base.h
+	<iostream>
+	<vector>
+
+1527654920 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\src\profiles_system\profiles_base.cpp
+	"../../headers/Profiles_System/profiles_base.h"
+	"../../headers/Veikals_System/Products.h"
+	"../../headers/funckijas.h"
+	<iostream>
+	<windows.h>
+	<fstream>
+	<direct.h>
+
+1527941218 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\src\veikals_system\veikals.cpp
+	<iostream>
+	<windows.h>
+	<direct.h>
+	"../../headers/Veikals_System/Veikals.h"
+	"../../headers/Veikals_System/Veikals_Menu.h"
+	"../../headers/Veikals_System/Admin_Menu.h"
+	"../../headers/Veikals_System/Merchant_,Menu.h"
+	"../../headers/Veikals_System/User_Menu.h"
+	"../../headers/Veikals_System/Guest_Menu.h"
+
+1527940976 c:\saintminer\studio\programming\c++\gala projekts\internet veikals\headers\veikals_system\veikals.h
+	<iostream>
+	<vector>
+	"../Profiles_System/profiles_base.h"
+	"Pasutijums.h"
+	"../funckijas.h"
+
+1527686151 source:h:\c++\gl\internet veikals\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	"headers/Profiles_System/profiles_base.h"
+	"headers/Veikals_System/Veikals.h"
+
+1527680778 h:\c++\gl\internet veikals\headers\profiles_system\profiles_base.h
+	<iostream>
+	<vector>
+
+1527678845 h:\c++\gl\internet veikals\headers\veikals_system\veikals.h
+	<iostream>
+	"../Profiles_System/profiles_base.h"
+
+1527678981 source:h:\c++\gl\internet veikals\src\veikals_system\veikals.cpp
+	<iostream>
+	<windows.h>
+	<direct.h>
+	"../../headers/Veikals_System/Veikals.h"
+	"../../headers/Veikals_System/Veikals_Menu.h"
+	"../../headers/Veikals_System/Admin_Menu.h"
+	"../../headers/Veikals_System/Merchant_,Menu.h"
+	"../../headers/Veikals_System/User_Menu.h"
+	"../../headers/Veikals_System/Guest_Menu.h"
+
+1527688858 source:h:\c++\gl\internet veikals\src\profiles_system\profiles_base.cpp
+	"../../headers/Profiles_System/profiles_base.h"
+	"../../headers/Veikals_System/Products.h"
+	"../../headers/funckijas.h"
+	<iostream>
+	<windows.h>
+	<fstream>
+	<direct.h>
+
+1527943181 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\src\veikals_system\menu_base.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	"../../headers/Veikals_System/Veikals_Menu.h"
+	"../../headers/funckijas.h"
+	"../../headers/Veikals_System/Veikals.h"
+
+1527943137 c:\saintminer\studio\programming\c++\gala projekts\internet veikals\headers\veikals_system\veikals_menu.h
+	"Products.h"
+	"../Profiles_System/profiles_base.h"
+	"Pasutijums.h"
+
+1527943172 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\src\veikals_system\admin_menu.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<math.h>
+	"../../headers/Veikals_System/Admin_Menu.h"
+	"../../headers/funckijas.h"
+
+1527685014 source:h:\c++\gl\internet veikals\src\veikals_system\admin_menu.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<math.h>
+	"../../headers/Veikals_System/Admin_Menu.h"
+	"../../headers/funckijas.h"
+
+1527678845 h:\c++\gl\internet veikals\headers\veikals_system\veikals_menu.h
+	"Products.h"
+	"../Profiles_System/profiles_base.h"
+
+1527685430 source:h:\c++\gl\internet veikals\src\veikals_system\merchant_menu.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<math.h>
+	"../../headers/Veikals_System/Merchant_,Menu.h"
+	"../../headers/funckijas.h"
+
+1527687233 source:h:\c++\gl\internet veikals\src\veikals_system\menu_base.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	"../../headers/Veikals_System/Veikals_Menu.h"
+	"../../headers/funckijas.h"
+	"../../headers/Veikals_System/Veikals.h"
+
+1526989224 source:h:\c++\gl\internet veikals\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+	"../headers/funckijas.h"
+
+1526989216 h:\c++\gl\internet veikals\headers\funckijas.h
+	<iostream>
+
+1527939662 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	"../headers/funckijas.h"
+
+1527938896 c:\saintminer\studio\programming\c++\gala projekts\internet veikals\headers\funckijas.h
+	<iostream>
+
+1527942528 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\src\veikals_system\merchant_menu.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<math.h>
+	"../../headers/Veikals_System/Merchant_,Menu.h"
+	"../../headers/funckijas.h"
+
+1527942130 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\src\veikals_system\products.cpp
+	"../../headers/Veikals_System/Products.h"
+	"../../headers/funckijas.h"
+	<fstream>
+	<windows.h>
+	<cmath>
+	<vector>
+	"../../headers/Veikals_System/Pasutijums.h"
+
+1527687828 source:h:\c++\gl\internet veikals\src\veikals_system\products.cpp
+	"../../headers/Veikals_System/Products.h"
+	"../../headers/funckijas.h"
+	<fstream>
+	<windows.h>
+	<cmath>
+	<vector>
+
+1527678816 h:\c++\gl\internet veikals\headers\veikals_system\products.h
+	<iostream>
+
+1527678816 h:\c++\gl\internet veikals\headers\veikals_system\admin_menu.h
+	"Veikals_Menu.h"
+
+1527678816 h:\c++\gl\internet veikals\headers\veikals_system\merchant_,menu.h
+	"Veikals_Menu.h"
+
+1527677735 h:\c++\gl\internet veikals\headers\veikals_system\user_menu.h
+	"Veikals_Menu.h"
+
+1527677775 h:\c++\gl\internet veikals\headers\veikals_system\guest_menu.h
+	"Veikals_Menu.h"
+
+1527678747 source:h:\c++\gl\internet veikals\src\veikals_system\guest_menu.cpp
+	"../../headers/Veikals_System/Guest_Menu.h"
+
+1527678521 source:h:\c++\gl\internet veikals\src\veikals_system\user_menu.cpp
+	"../../headers/Veikals_System/User_Menu.h"
+
+1527690044 source:h:\c++\gl\internet veikals\src\veikals_system\pasutijums.cpp
+	"../../headers/Veikals_System/Pasutijums.h"
+	"../../headers/funckijas.h"
+	<fstream>
+	<windows.h>
+
+1527688792 h:\c++\gl\internet veikals\headers\veikals_system\pasutijums.h
+	<iostream>
+
+1527939661 c:\saintminer\studio\programming\c++\gala projekts\internet veikals\headers\veikals_system\pasutijums.h
+	<iostream>
+	<vector>
+
+1527654876 c:\saintminer\studio\programming\c++\gala projekts\internet veikals\headers\veikals_system\products.h
+	<iostream>
+
+1527943143 c:\saintminer\studio\programming\c++\gala projekts\internet veikals\headers\veikals_system\admin_menu.h
+	"Veikals_Menu.h"
+
+1527943126 c:\saintminer\studio\programming\c++\gala projekts\internet veikals\headers\veikals_system\merchant_,menu.h
+	"Veikals_Menu.h"
+
+1527654874 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\src\veikals_system\user_menu.cpp
+	"../../headers/Veikals_System/User_Menu.h"
+
+1527654876 c:\saintminer\studio\programming\c++\gala projekts\internet veikals\headers\veikals_system\user_menu.h
+	"Veikals_Menu.h"
+
+1527654876 c:\saintminer\studio\programming\c++\gala projekts\internet veikals\headers\veikals_system\guest_menu.h
+	"Veikals_Menu.h"
+
+1527654876 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\src\veikals_system\guest_menu.cpp
+	"../../headers/Veikals_System/Guest_Menu.h"
+
+1527940038 source:c:\saintminer\studio\programming\c++\gala projekts\internet veikals\src\veikals_system\pasutijums.cpp
+	"../../headers/Veikals_System/Pasutijums.h"
+	"../../headers/funckijas.h"
+	<fstream>
+	<windows.h>
+
+1529233770 source:e:\internet veikals\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	"headers/Profiles_System/profiles_base.h"
+	"headers/Veikals_System/Veikals.h"
+
+1529233940 e:\internet veikals\headers\profiles_system\profiles_base.h
+	<iostream>
+	<vector>
+
+1528293856 e:\internet veikals\headers\veikals_system\veikals.h
+	<iostream>
+	<vector>
+	"../Profiles_System/profiles_base.h"
+	"Pasutijums.h"
+	"../funckijas.h"
+
+1529143672 e:\internet veikals\headers\veikals_system\pasutijums.h
+	<iostream>
+	<vector>
+
+1527938898 e:\internet veikals\headers\funckijas.h
+	<iostream>
+
+1527939664 source:e:\internet veikals\src\funkcijas.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	"../headers/funckijas.h"
+
+1529234040 source:e:\internet veikals\src\profiles_system\profiles_base.cpp
+	"../../headers/Profiles_System/profiles_base.h"
+	"../../headers/Veikals_System/Products.h"
+	"../../headers/funckijas.h"
+	<iostream>
+	<windows.h>
+	<fstream>
+	<direct.h>
+
+1529234660 e:\internet veikals\headers\veikals_system\products.h
+	<iostream>
+	<vector>
+	"pasutijums.h"
+
+1529236126 source:e:\internet veikals\src\veikals_system\admin_menu.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<math.h>
+	"../../headers/Veikals_System/Admin_Menu.h"
+	"../../headers/funckijas.h"
+
+1528384070 e:\internet veikals\headers\veikals_system\admin_menu.h
+	"Veikals_Menu.h"
+
+1529236222 e:\internet veikals\headers\veikals_system\veikals_menu.h
+	"Products.h"
+	"../Profiles_System/profiles_base.h"
+	"Pasutijums.h"
+
+1529234042 source:e:\internet veikals\src\veikals_system\guest_menu.cpp
+	"../../headers/Veikals_System/Guest_Menu.h"
+
+1529234040 e:\internet veikals\headers\veikals_system\guest_menu.h
+	"Veikals_Menu.h"
+
+1529237732 source:e:\internet veikals\src\veikals_system\menu_base.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<cmath>
+	"../../headers/Veikals_System/Veikals_Menu.h"
+	"../../headers/funckijas.h"
+	"../../headers/Veikals_System/Veikals.h"
+	"../../headers/Veikals_System/Pasutijums.h"
+
+1529236142 source:e:\internet veikals\src\veikals_system\merchant_menu.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<math.h>
+	"../../headers/Veikals_System/Merchant_,Menu.h"
+	"../../headers/funckijas.h"
+
+1528384082 e:\internet veikals\headers\veikals_system\merchant_,menu.h
+	"Veikals_Menu.h"
+
+1529143832 source:e:\internet veikals\src\veikals_system\pasutijums.cpp
+	"../../headers/Veikals_System/Pasutijums.h"
+	"../../headers/funckijas.h"
+	<fstream>
+	<windows.h>
+
+1529234688 source:e:\internet veikals\src\veikals_system\products.cpp
+	"../../headers/Veikals_System/Products.h"
+	"../../headers/funckijas.h"
+	<fstream>
+	<windows.h>
+	<cmath>
+	<vector>
+	"../../headers/Veikals_System/Pasutijums.h"
+
+1527654874 source:e:\internet veikals\src\veikals_system\user_menu.cpp
+	"../../headers/Veikals_System/User_Menu.h"
+
+1527654876 e:\internet veikals\headers\veikals_system\user_menu.h
+	"Veikals_Menu.h"
+
+1529233690 source:e:\internet veikals\src\veikals_system\veikals.cpp
+	<iostream>
+	<windows.h>
+	<direct.h>
+	<fstream>
+	"../../headers/Veikals_System/Veikals.h"
+	"../../headers/Veikals_System/Veikals_Menu.h"
+	"../../headers/Veikals_System/Admin_Menu.h"
+	"../../headers/Veikals_System/Merchant_,Menu.h"
+	"../../headers/Veikals_System/User_Menu.h"
+	"../../headers/Veikals_System/Guest_Menu.h"
+
